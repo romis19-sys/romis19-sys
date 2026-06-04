@@ -47,7 +47,7 @@ A lo largo de mi trayectoria académica y proyectos personales, he consolidado e
 ¿Tienes algún proyecto en mente, una idea para colaborar o simplemente quieres charlar sobre tecnología e IA? ¡No dudes en contactarme!
 
 <p align="left">
-  <a href="mailto:craudyrodolfo@gmail.com">
+  <a href="craudyrodolfo@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://wa.me/+50578204362">
