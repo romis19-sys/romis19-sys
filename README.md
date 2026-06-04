@@ -47,15 +47,15 @@ A lo largo de mi trayectoria académica y proyectos personales, he consolidado e
 ¿Tienes algún proyecto en mente, una idea para colaborar o simplemente quieres charlar sobre tecnología e IA? ¡No dudes en contactarme!
 
 <p align="left">
-  <a href="mailto:tu-correo@dominio.com">
+  <a href="mailto:rodolfocraudy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://wa.me/tuNumeroDeTelefono ConCodigoDePais">
+  <a href="https://wa.me/+50578204362">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
 ---
 <p align="center">
-  <i>"El código limpio siempre parece que fue escrito por alguien a quien le importa."</i>
+  <i>"En programación, el único límite es tu imaginación."</i>
 </p>
