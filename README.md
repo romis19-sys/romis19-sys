@@ -1,62 +1,37 @@
-# 👋 ¡Hola! Soy Rodolfo Kraudy
+# ¡Hola! Soy Rodolfo Kraudy 👋 💻
 
-🎓 Estudiante de Informática | 💻 Desarrollador de Software | 🚀 Apasionado por la Tecnología
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo de software y la ingeniería de sistemas, enfocado en construir soluciones eficientes, limpias y escalables. 
 
-Actualmente curso el **4.º año de la carrera de Informática**, donde continúo fortaleciendo mis conocimientos en desarrollo de software, bases de datos y automatización de procesos.
+### 🚀 Sobre mí
 
-## 🧑‍💻 Sobre mí
-
-- 🎓 Estudiante de Informática (4.º año).
-- 💡 Interesado en el desarrollo de aplicaciones de escritorio, herramientas de automatización y soluciones tecnológicas.
-- 🤖 Utilizo asistentes de Inteligencia Artificial para optimizar flujos de trabajo, acelerar el desarrollo y mejorar la productividad.
-- 📚 Siempre aprendiendo nuevas tecnologías y buenas prácticas de programación.
-
-## 🛠️ Tecnologías y Herramientas
-
-### Lenguajes de Programación
-- C#
-- Python
-- SQL
-
-### Bases de Datos
-- MySQL
-
-### Herramientas y Tecnologías
-- .NET Framework / .NET
-- Windows Forms
-- Git & GitHub
-- Visual Studio
-- Inteligencia Artificial aplicada al desarrollo
-
-## 📈 Objetivos
-
-- Desarrollar aplicaciones eficientes y escalables.
-- Profundizar en arquitectura de software y desarrollo backend.
-- Continuar explorando el potencial de la Inteligencia Artificial en el desarrollo de soluciones tecnológicas.
-- Contribuir a proyectos de código abierto y seguir ampliando mi experiencia profesional.
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romis19-sys&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romis19-sys&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-## 🌱 Actualmente aprendiendo
-
-- Desarrollo de aplicaciones más escalables con .NET
-- Automatización mediante Python
-- Integración de herramientas de IA en procesos de desarrollo
-- Buenas prácticas de diseño y arquitectura de software
-
-## 📫 Contacto
-
-- GitHub: https://github.com/romis19-sys
-- Email: rodolfocraudy@gmail.com
+* 🎓 **Educación:** Estudiante de 4.º año de Ingeniería en Informática.
+* 💡 **Filosofía de desarrollo:** Me apasiona la automatización y la optimización de procesos. Integro asistentes de Inteligencia Artificial en mi flujo de trabajo para acelerar la codificación, refactorizar código y resolver problemas complejos de manera eficiente.
+* 🛠️ **Enfoque actual:** Profundizando en la arquitectura de software, patrones de diseño y optimización de bases de datos.
 
 ---
 
-⭐ *"La tecnología no solo consiste en escribir código, sino en crear soluciones que faciliten la vida de las personas."*
+### 🛠️ Tecnologías y Herramientas
+
+A lo largo de mi formación y proyectos, he consolidado el manejo de las siguientes tecnologías:
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes Fuertes** | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Metodología** | ![AI-Driven Development](https://img.shields.io/badge/AI--Assisted-Development-blueviolet?style=for-the-badge&logo=openai&logoColor=white) |
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=romis19-sys&show_icons=true&theme=radical" alt="Estadísticas de GitHub de Rodolfo" />
+</p>
+
+---
+
+### 📫 Conéctate conmigo
+
+* **GitHub:** [@romis19-sys](https://github.com/romis19-sys)
+
+¡Siempre estoy abierto a colaborar en proyectos de código abierto o discutir sobre desarrollo de software e IA!
