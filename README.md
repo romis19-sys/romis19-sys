@@ -21,15 +21,21 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 📊 Resumen de Actividad
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romis19-sys&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+A continuación puedes ver un resumen directo de mi actividad en la plataforma:
+
+<p align="left">
+  <a href="https://github.com/romis19-sys">
+    <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/150000000?v=4&w=150&h=150&fit=cover&mask=circle" alt="Avatar" align="right" hspace="10" vspace="10">
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romis19-sys&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
-</p>
+* 🛠️ **Lenguajes preferidos:** C#, Python, JavaScript y SQL.
+* 📦 **Enfoque principal:** Desarrollo de APIs, lógica de negocio y gestión de datos.
+* 🤝 **Contribuciones:** Abierto a proyectos colaborativos y desarrollo de sistemas académicos o profesionales.
+
+> Puedes revisar el panel superior de contribuciones nativo de GitHub en esta misma página para ver mi actividad en tiempo real.
 
 ---
 
